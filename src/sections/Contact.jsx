@@ -12,7 +12,7 @@ import SectionTitle from "../components/SectionTitle";
 import { useScrollAnimation } from "../hooks/useScrollAnimation";
 
 const SOCIAL_LINKS = [
-  { key: "github", Icon: Github, label: "GitHub", handle: "your-profile" },
+  { key: "github", Icon: Github, label: "GitHub", handle: "Asddqphn1" },
   {
     key: "linkedin",
     Icon: Linkedin,
@@ -23,9 +23,9 @@ const SOCIAL_LINKS = [
     key: "instagram",
     Icon: Instagram,
     label: "Instagram",
-    handle: "@your-profile",
+    handle: "@diqqipohan",
   },
-  { key: "email", Icon: Mail, label: "Email", handle: "your@email.com" },
+  { key: "email", Icon: Mail, label: "Email", handle: "pdiqqi@gmail.com" },
 ];
 
 export default function Contact() {
