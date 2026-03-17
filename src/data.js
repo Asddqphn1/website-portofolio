@@ -83,7 +83,7 @@ export const skills = [
   {
     category: "Programming Languages",
     icon: "Code2",
-    items: ["JavaScript", "Python", "Java", "PHP"],
+    items: ["JavaScript", "Python", "Java", "PHP", "Kotlin"],
   },
   {
     category: "Frameworks & Libraries",
@@ -93,6 +93,7 @@ export const skills = [
       "FastAPI",
       "Laravel",
       "Express",
+      "Compose Multiplatform",
       "Hono",
       "Tailwind CSS",
       "SQLModel",
@@ -120,7 +121,7 @@ export const experience = [
     id: 1,
     title: "BFF + Redis + Docker Re-Architecture",
     role: "Backend Engineer",
-    period: "2024",
+    period: "2026",
     type: "Technical Project",
     description:
       "Led the re-architecture of a backend system adopting the Backend For Frontend (BFF) pattern to optimize API responses per client type. Integrated Redis as a high-performance caching layer to drastically reduce database load and improve response times. The entire infrastructure was containerized using Docker, ensuring consistent, reproducible, and scalable deployment across environments.",
@@ -130,7 +131,7 @@ export const experience = [
     id: 2,
     title: "RDO Labsquad",
     role: "Leader / Chairperson",
-    period: "2023 – Present",
+    period: "2025 – Present",
     type: "Leadership & Organization",
     description:
       "Serving as the Leader and Chairperson of RDO Labsquad, an academic software lab organization. Responsible for driving technical initiatives, mentoring junior members, and organizing collaborative engineering projects that bridge academic learning with real-world development.",
